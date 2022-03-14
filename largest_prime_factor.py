@@ -1,5 +1,5 @@
 
-import numpy as np
+# import numpy as np
 
 def check_prime(in_value):
     prime =in_value
